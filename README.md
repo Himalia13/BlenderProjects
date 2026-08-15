@@ -8,6 +8,8 @@ A procedural black hole with a glowing accretion disk and gravitational lensing 
 
 ![Black Hole render](BlackHole/0001_comp.png)
 
+[Uncompressed Version](BlackHole/0001.png)
+
 **Tutorial:** [Create Realistic Black Holes in Blender](https://www.youtube.com/watch?v=XWv1Ajc3tfU)
 
 ### Thanks
